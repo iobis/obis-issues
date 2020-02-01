@@ -1,6 +1,6 @@
 # obis-issues
 
-The OBIS Issues repo is used for capturing and tracking all types of issues that arise in the operations of OBIS, from the portal and web site to the map tool, API, R package, and other tools in the OBIS ecosystem of capabilities. OBIS issues are the responsibility of the OBIS community, including the OBIS Steering Group, OBIS Secretariat (data management and software engineering), and our community at large. Anyone can post issues and comment, and we encourage both direct contribution and capture of issues from meetings, training, and other activities.
+The OBIS Issues repo is used for capturing and tracking all types of issues that arise in the regular operation of OBIS, from the portal and web site to the map tool, API, R package, and other tools in the OBIS ecosystem of capabilities. OBIS issues are the responsibility of the OBIS community, including the OBIS Executive Committee, OBIS Steering Group, OBIS Secretariat (data management and software engineering), and our community at large. Anyone can post issues and comment, and we encourage both direct contribution and capture of issues from meetings, training, and other activities.
 
 We make use of labels on issues to help determine what kind of action is appropriate and assignments to individuals within our community who need to comment and close issues or articulate how issues need to be taken to action in engineering the system. The following guidelines should be used in creating and managing issues in this repo.
 
@@ -33,3 +33,7 @@ Many issues that come up can't really have anything done on them from a software
 ## OBIS EC Issues
 
 The OBIS Executive Team, made up of the OBIS Steering Group Co-chairs and Task Team Leads, helps to guide the overall OBIS effort on a more real time basis throughout the year through monthly meetings. When issues come up over time, the OBIS EC can be assigned items that need some consideration to determine how to proceed. Many times this will include figuring out if an existing Task Team can be pulled in to work on some further exploration, background work, and documentation before some engineering work can be done. The OBIS EC may also help determine that an issue really is not appropriate to deal with at a point in time or that it needs to be further debated to determine action.
+
+## Links to Other Repos
+
+The obis-issues repo was set up as a clearinghouse and central location to manage all manner of issues that come up in the operation of OBIS. Many of the items that arise will eventually be taken care of in the various components of the OBIS technical infrastructure that are based in their own repos, some of which are not public (at least not yet). When an issue gets to the point where it is "engineering actionable," a comment will link it to one or more issues in another repo where software engineering is going on.
