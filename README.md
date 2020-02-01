@@ -6,4 +6,16 @@ We make use of labels on issues to help determine what kind of action is appropr
 
 ## Labeling
 
-
+API - Features needed in the API
+bug - Inappropriate behavior in the application indicating a bug
+data quality - Issues associated with the quality/completeness of datasets and records
+data rescue - Datasets identified for potential rescue operations
+data standards - Issues associated with the Darwin Core or other standards employed that have not yet been assigned
+duplicate - Duplicate of another issue; comment should point to the preferred issue to be resolved
+harvesting - Issues associated with the OBIS harvesting pipeline process and codebase
+mapper - Mapper.obis.org map tool
+metadata portal - metadata.obis.org application for managing internal connections
+OBIS EC - Issues that need to be addressed by the OBIS EC and passed on to appropriate assignments
+OBIS Manual - Requested documentation changes to the OBIS manual
+smalldata - smalldata.obis.org application for submitting individual records to the OBIS database
+website - Static text and informational aspects of the OBIS.org web site
